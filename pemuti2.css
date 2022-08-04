@@ -1,0 +1,8 @@
+
+body{
+    background-color: aqua;
+}
+body{
+    height: 100vh;
+    background-color: liner-gradient(rab(243, 215, 215),rab(238, 102, 102,));
+}
